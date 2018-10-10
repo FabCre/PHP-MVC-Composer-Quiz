@@ -1,0 +1,37 @@
+/* BODY START */
+
+body {
+  font-family: 'Inconsolata', monospace;
+  font-size: large;
+}
+
+/* BODY END */
+
+/* HEADER START */
+
+header {
+  color: #007bff;
+}
+
+header nav ul li a:hover {
+  background-color: #007bff;
+  color: rgb(255, 255, 255);
+  border-radius: .5em;
+}
+
+/* HEADER END */
+
+/* CONTENT STRAT */
+
+div h2 span#bagde-title {
+  font-size: 50%;
+  line-height: .75;
+  vertical-align: 30%;
+}
+
+span.badge-level {
+  color: rgb(255, 255, 255);
+  float: right;
+}
+
+/* CONTENT END */
